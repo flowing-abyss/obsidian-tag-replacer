@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "tag-replacer",
+	"name": "Tag Replacer",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Generates CSS to change the display of specified tags",
+	"author": "flowing-abyss",
+	"authorUrl": "https://github.com/flowing-abyss",
+	"fundingUrl": "https://www.donationalerts.com/r/flowing_abyss",
 	"isDesktopOnly": false
 }
